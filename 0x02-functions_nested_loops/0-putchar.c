@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
  * main - A program that prints _putchar with printf function
- * Result 0 (Success)
+ * Result: 0 (Success)
  */
 int main(void)
 {
-	printf("_putchar\n");
+	char=_putchar;
+	write("_putchar\n");
 return (0);
 }
